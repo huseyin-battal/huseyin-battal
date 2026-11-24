@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Huseyin Battal. I'm currently living on the European Side of Istanbul.
+Hi, I'm Huseyin Battal.
 
 Your full-stack web developer.
 
